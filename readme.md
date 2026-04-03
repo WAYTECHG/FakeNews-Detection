@@ -90,10 +90,3 @@ The following metrics are calculated for every classifier:
 * 📈 Build a Streamlit or Flask web interface
 * 🧾 Integrate explainability tools like LIME or SHAP
 * 💾 Deploy on cloud platforms (AWS / Hugging Face Spaces)
-
-
-## ⚠️ Disclaimer
-
-> This system is for  **educational and experimental purposes only** .
->
-> It is  **not intended for production or journalistic validation** .
